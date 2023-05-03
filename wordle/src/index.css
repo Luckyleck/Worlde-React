@@ -66,8 +66,8 @@ h1 {
   animation-delay: 0.8s;
 }
 
-.row.current>div.filled {
-  animation: bounce 0.2 ease-in-out forwards;
+.row.current > div.filled {
+  animation: bounce 0.2s ease-in-out forwards;
 }
 
 
