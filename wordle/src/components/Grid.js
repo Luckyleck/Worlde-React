@@ -7,7 +7,7 @@ export default function Grid({ currentGuess, guesses, turn }) {
             if (turn === i) {
                 return <Row key={i} currentGuess={currentGuess} />
             }
-            return <Row key={i} guess={guess} currentGuess={currentGuess} />
+            return <Row key={i} guess={guess}  />
         })}</div>
     )
 }
