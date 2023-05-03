@@ -1,0 +1,24 @@
+{
+    "solutions": [
+        {"id": 1, "word": "ninja"},
+        {"id": 2, "word": "gummy"},
+        {"id": 3, "word": "blitz"},
+        {"id": 4, "word": "quack"},
+        {"id": 5, "word": "fable"},
+        {"id": 6, "word": "zesty"},
+        {"id": 7, "word": "fudge"},
+        {"id": 8, "word": "jolly"},
+        {"id": 9, "word": "flaky"},
+        {"id": 10, "word": "spicy"},
+        {"id": 11, "word": "plush"},
+        {"id": 12, "word": "skimp"},
+        {"id": 13, "word": "dwarf"},
+        {"id": 14, "word": "blaze"},
+        {"id": 15, "word": "vocal"},
+        {"id": 16, "word": "swoop"},
+        {"id": 17, "word": "dolly"},
+        {"id": 18, "word": "giddy"},
+        {"id": 19, "word": "silly"},
+        {"id": 20, "word": "bumpy"}
+    ]
+}
