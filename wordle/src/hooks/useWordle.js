@@ -2,7 +2,7 @@ import { useState } from "react"
 
 
 function useWordle(solution) {
-    const [turn, setTurn] = useState('')
+    const [turn, setTurn] = useState(0)
     const [currentGuess, setCurrentGuess] = useState('')
     const [guesses, setGuesses] = useState([...Array.from(6)]) // each guess is an array
     const [history, setHistory] = useState([]) // each guess is a string

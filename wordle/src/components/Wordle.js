@@ -10,7 +10,7 @@ export default function Wordle({ solution }) {
     }, [handleKeyup])
 
     useEffect(() => {
-        console.log(guesses, turn, isCorrect)
+        console.log(guesses, `Turns: ${turn}`, `Correct? ${isCorrect}`)
     }, [guesses, turn, isCorrect])
 
     return (
