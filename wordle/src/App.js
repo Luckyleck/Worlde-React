@@ -16,8 +16,11 @@ function App() {
   }, [setSolution])
 
   return (
-    <div className="App">
-      <h1>Wordle By Alex</h1>
+    <div className="app">
+      <div className="nav">
+        <h1>Wordle By Alex</h1>
+        <a href="https://github.com/Luckyleck">Github</a>
+      </div>
       {solution && <Wordle solution={solution} />}
     </div>
   );
